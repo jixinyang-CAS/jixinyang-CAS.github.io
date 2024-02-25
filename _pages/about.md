@@ -12,7 +12,7 @@ I'm a Ph.D. candidate in geodetection & information technology at Ultrasonics La
 
 Currently, I hold a visiting student position at [Environmental Geophysics Group (EGG)](https://sites.psu.edu/tzhu/group/) Pennsylvania State University, working with Professor [Tieyuan Zhu](https://www.geosc.psu.edu/directory/tieyuan-zhu). I focus on CO$_2$ plumes and leakage characterization with high-resolution Q-FWI and look for cooperation with reseachers who share related research insterests.
 
-- ** Skills:
+My geophysical skills include:
   - **Numerical Simulation of Partial Derivative Equation** 
     - Frequency-domain Finite-difference Method
     - Finite Element Method
