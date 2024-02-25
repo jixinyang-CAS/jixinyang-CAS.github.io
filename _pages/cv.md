@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-
+<embed src="{{ site.baseurl }}/files/yang_cv2024(1).pdf" width="600" height="700" type='application/pdf'>
 
