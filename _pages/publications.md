@@ -19,6 +19,7 @@ __Jixin Yang__, Xiaotao Wen, Lei Li, Bo Li. *Authorized Patent, CN 113589381 B* 
 * Processing the artificial edge-effects for finite- difference frequency-domain in viscoelastic anisotropic formations. <br> 
 __Jixin Yang__, Xiao He, Hao Chen. *Journal of Geophysics and Engineering* 2022.<br> 
 [[Paper]](https://www.mdpi.com/2076-3417/12/9/4719)
+[[Code]](https://github.com/jixinyang-CAS/FDFDViscoElastic)
 
 * Computation method for reservoir fluid mobility based on sparsity-based adaptive S-transform. <br> 
 __Jixin Yang__, Xiaotao Wen, Xin Chen. *Science Technology and Engineering* 2017.<br>
