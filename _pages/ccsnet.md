@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CCSNet.ai"
-permalink: /ccsnet/
+title: " "
+permalink: / /
 author_profile: true
 ---
 
