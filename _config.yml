@@ -15,7 +15,7 @@ title                    : "Jixin Yang"
 title_separator          : "-"
 name                     : &name "Jixin Yang"
 description              : &description "personal description"
-url                      : https://gegewen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://JixinYYYY.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://localhost:4000
 baseurl                  : ""
 repository               : "https://JixinYYYY.github.io"
@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             :
-  avatar           : "jixin.png"
+  avatar           : "jixinyang.jpg"
   bio              :
   location         : "Penn State, PA, USA"
   employer         :
