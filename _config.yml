@@ -11,10 +11,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jixin Yang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jixin Yang"
-description              : &description "personal description"
+description              : &description "Visiting PhD student at Penn State University"
 url                      : https://JixinYYYY.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://localhost:4000
 baseurl                  : ""
@@ -85,10 +85,10 @@ analytics:
 
 # Site Author
 author:
-  name             :
+  name             : "Jixin Yang"
   avatar           : "jixinyang.jpg"
   bio              :
-  location         : "Penn State, PA, USA"
+  location         : "State college, PA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=HI-4n6AAAAAJ"
