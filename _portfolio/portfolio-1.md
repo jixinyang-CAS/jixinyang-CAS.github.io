@@ -1,6 +1,6 @@
 ---
 title: "Wavefield Modeling for Complex Media"
-excerpt: "Finite difference method in frequency-space domain<br/><img src='/images/500x300.png'>"
+excerpt: "Finite difference method in frequency-space domain<br/><img src='/images/1.png'>"
 collection: portfolio
 ---
 
