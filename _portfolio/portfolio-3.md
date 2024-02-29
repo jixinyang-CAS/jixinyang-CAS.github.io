@@ -1,6 +1,6 @@
 ---
-title: "Wavefield Modeling for Complex Media"
-excerpt: "Finite difference method in frequency-space domain<br/><img src='/images/1.png'>"
+title: "Seismic Interpretation and Inversion with Broad-band Ocean Dataset"
+excerpt: "Acoustic impedance and reflectivity inversion and interpretation<br/><img src='/images/Seismic interpretation 1.png'>"
 collection: portfolio
 ---
 
