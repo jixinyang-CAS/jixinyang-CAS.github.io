@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Wavefield Modeling for Complex Media"
+excerpt: "Finite difference method in frequency-space domain<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
