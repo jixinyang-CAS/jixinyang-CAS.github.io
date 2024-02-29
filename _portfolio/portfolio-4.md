@@ -9,4 +9,4 @@ Study the ultrasonic wave phenomenon within human body using frequency-domain fi
 
 ![image](/images/image26.gif)
 
-
+   
