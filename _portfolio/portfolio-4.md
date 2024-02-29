@@ -1,6 +1,6 @@
 ---
-title: "Wavefield Modeling for Complex Media"
-excerpt: "Finite difference method in frequency-space domain<br/><img src='/images/1.png'>"
+title: "Medical Ulrasonics"
+excerpt: "Frequency domain waveform inversion tomography for human body<br/><img src='/images/USCT.png'>"
 collection: portfolio
 ---
 
